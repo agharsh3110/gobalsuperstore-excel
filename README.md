@@ -63,6 +63,7 @@ Contains sales transaction data from 2011 to 2014 across multiple countries, reg
 ---
 
 ## 📂 File Contents
+- `GS Dashboard.png`: Main Excel dashboard Image
 - `Global Superstore.xlsx`: Main Excel dashboard file
 - `Global Superstore.xlsx`: Raw dataset used
 - `README.md`: Project overview and documentation
