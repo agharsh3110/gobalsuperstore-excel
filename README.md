@@ -80,7 +80,7 @@ Contains sales transaction data from 2011 to 2014 across multiple countries, reg
 ---
 
 ## 💡 Author
-**Harsh**  
+**Harsh Agrawal**  
 [LinkedIn Profile](https://www.linkedin.com/in/harsh-agrawal-aab41a36b/)
 
 ---
